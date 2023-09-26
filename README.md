@@ -1,4 +1,4 @@
-A hobbyist from Mandalay, Myanmar. 😃
+A hobbyist from Myanmar.
 
 <!---
 tunaung22/tunaung22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
